@@ -28,15 +28,6 @@
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
   ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
 
-
-<br/>
-
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> Links: </h3> 
 
 [![Linkedin: Igor Lima](https://img.shields.io/badge/-Igor%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/igor-lima-6246331b1/)
