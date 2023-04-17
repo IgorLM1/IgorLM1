@@ -9,7 +9,6 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Apache Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven)
-  ![Broadcom](https://img.shields.io/badge/-CA%20Broadcom%20Identity%20Suite-333333?style=flat&logo=broadcom)
 
 **DevOps**
 
